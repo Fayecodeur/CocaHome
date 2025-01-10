@@ -1,21 +1,21 @@
 const traductions = {
   FR: {
     title: "Une nouvelle sensation.",
-    txt: "Découvrez notre toute nouvelle recette !",
-    btn: "Voir plus",
-    ctn: " Francais language, Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem aliquam asperiores exercitationem sed unde sapiente neque nam id architecto, culpa aspernatur quisquam ab? Repellat optio porro veniam, sit non accusantium?",
+    txt: "Savourez le meilleur de notre cuisine avec des ingrédients frais et authentiques.",
+    btn: "Découvrir",
+    ctn: "Bienvenue dans l'univers de notre restaurant. Découvrez des plats inspirés des saveurs de notre terroir, préparés avec soin par nos chefs passionnés. Que ce soit pour une soirée entre amis, un repas en famille ou un événement spécial, laissez-vous séduire par une expérience culinaire unique.",
   },
   EN: {
     title: "Taste the feeling.",
-    txt: "Discover our brand new recipe!",
-    btn: "See more",
-    ctn: " EN language, His cognitis Gallus ut serpens adpetitus telo vel saxo iamque spes extremas opperiens et succurrens saluti suae quavis ratione colligi omnes iussit armatos et cum starent attoniti, districta dentium acie stridens adeste inquit viri fortes.",
+    txt: "Enjoy the best of our cuisine with fresh and authentic ingredients.",
+    btn: "Discover",
+    ctn: "Welcome to our restaurant's universe. Explore dishes inspired by the flavors of our land, crafted with care by our passionate chefs. Whether it’s a night out with friends, a family meal, or a special event, indulge in a unique culinary experience.",
   },
   ES: {
-    title: "Nueva sensacione.",
-    txt: "¡Saborea nuevas sensaciones!",
-    btn: "Ver mas",
-    ctn: " ES language Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem aliquam asperiores exercitationem sed unde sapiente neque nam id architecto, culpa aspernatur quisquam ab? Repellat optio porro veniam, sit non accusantium?neque nam id architecto.",
+    title: "Nueva sensación.",
+    txt: "Disfruta de lo mejor de nuestra cocina con ingredientes frescos y auténticos.",
+    btn: "Descubrir",
+    ctn: "Bienvenido al universo de nuestro restaurante. Descubre platos inspirados en los sabores de nuestra tierra, preparados con dedicación por nuestros chefs apasionados. Ya sea para una noche con amigos, una comida en familia o un evento especial, déjate llevar por una experiencia gastronómica única.",
   },
 };
 
